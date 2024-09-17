@@ -13,7 +13,7 @@
 
 ## 🐥 1. Introducción a NoSql con MongoDB <a name="introduction_nosql_mongodb"></a>
 
-Hay dos tipos de bases de datos: bases de datos relacionales y no relacionales. 
+Hay dos tipos de bases de datos: bases de datos relacionales y no relacionales.
 
 Las bases datos **no relacionales** a menudo se denominan bases de datos **NoSQL**. 
 
